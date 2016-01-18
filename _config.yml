@@ -1,28 +1,40 @@
-name: qdao
 favicon: null
-layout_spectrum: 0.27032
-typography_spectrum: 0.58771
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: qdao
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5
+  brandStrength: 0.25
+  rhythmicContrast: 0.5
   brandColors:
     - '#999999'
     - '#4d4d4d'
     - '#aaaaaa'
     - '#9f9f9f'
     - '#484848'
-  brandStrength: 0.25
   lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.58771
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5860215
+analytics:
+  twitter: null
+  google: null
+  facebook: null
