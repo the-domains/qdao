@@ -1,4 +1,8 @@
-layout_spectrum: 1
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5
   brandStrength: 0.4910394
-  lightness: 0.5125448
+  rhythmicContrast: 0.3225806
   brandColors:
     - '#004812'
     - '#FFC425'
     - '#2C683B'
     - '#C6AB28'
     - '#6F8126'
-  rhythmicContrast: 0.3225806
+  lightness: 0.5125448
 typography_spectrum: 0.6899642
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: qdao
