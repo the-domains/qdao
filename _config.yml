@@ -1,8 +1,8 @@
 favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -13,28 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.1845878
-  lightness: 0.1648746
+  saturation: 0.5501792
   brandStrength: 0.2007169
+  lightness: 0.5663083
   brandColors:
     - '#004812'
     - '#FFC425'
     - '#2C683B'
     - '#C6AB28'
     - '#6F8126'
-  rhythmicContrast: 0.3225806
+  rhythmicContrast: 0.5645161
 typography_spectrum: 0.6899642
 layout_spectrum: 0.7795699
-cta:
-  bucket: null
-  version: null
-  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: qdao
