@@ -1,6 +1,6 @@
 name: qdao
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74473
 typography_spectrum: 0.6899642
 collections:
   - index:
@@ -33,8 +33,8 @@ color:
     - '#2C683B'
     - '#C6AB28'
     - '#6F8126'
-  brandStrength: 0.2007169
-  lightness: 0.5663083
-  saturation: 0.5501792
-  rhythmicContrast: 0.5645161
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
