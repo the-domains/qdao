@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[qdao]]></title>
-        <description><![CDATA[qdao]]></description>
+        <title><![CDATA[Test v2 qdao]]></title>
+        <description><![CDATA[Test v2 qdao]]></description>
         <link>https://thegrid.ai/qdao/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 18:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 01:59:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/qdao/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Pourquoi je me lève à 5h30 tous les matins (et ce que vous gagnerez à en faire autant) - Officielle France]]></title>
+            <description><![CDATA[<article><h1>Pourquoi je me lève à 5h30 tous les matins (et ce que vous gagnerez à en faire autant) - Officielle France</h1><p>Il nest jamais trop tard pour prendre de bonnes habitudes. Car il n'y a pas de bonne ou de mauvaise recette !</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd989dfa9bf03bb258731e81cf726a958ab77ca7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/qdao/pourquoi-je-me-leve-a-5h30-tous-les-matins-et-ce-que-vous-g/index.html</link>
+            <guid isPermaLink="false">7c5c4e6b-65bf-4254-a439-befb67c461f5</guid>
+            <pubDate>Fri, 12 Aug 2016 01:59:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[La solution eCommerce]]></title>
-            <description><![CDATA[<article><h1>La solution eCommerce</h1><p>https://fr.shopify.com/</p></article>]]></description>
+            <description><![CDATA[<p>La solution eCommerce</p>]]></description>
             <link>https://thegrid.ai/qdao/la-solution-ecommerce/index.html</link>
             <guid isPermaLink="false">c2ea6423-8eed-4ddc-b936-6c14ecfe1646</guid>
             <pubDate>Thu, 10 Mar 2016 18:13:50 GMT</pubDate>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[10 Growth Hacking Strategies for Startups]]></title>
-            <description><![CDATA[<article><h1>10 Growth Hacking Strategies for Startups</h1><p>http://fr.slideshare.net/ELIV8/10-growth-hacking-strategies-for-startups</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fd89ae69f771795a2b5a517e55509836687ad96.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>10 Growth Hacking Strategies for Startups</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fd89ae69f771795a2b5a517e55509836687ad96.jpg"></article>]]></description>
             <link>https://thegrid.ai/qdao/10-growth-hacking-strategies-for-startups/index.html</link>
             <guid isPermaLink="false">23f3aec0-e7a4-47ef-85ed-63d2c81f85b2</guid>
             <pubDate>Thu, 10 Mar 2016 16:44:38 GMT</pubDate>
@@ -64,25 +71,10 @@
         </item>
         <item>
             <title><![CDATA[Une première étape réussi ]]></title>
-            <description><![CDATA[<article><h1>Une première étape réussi </h1><p>Notre métier évolue avec nos
-clients et ceux-ci ont de plus
-en plus de choix lorsqu’ils
-décident de prendre un repas
-en extérieur.
-Le “Fast-Food” comme nous l’avons
-connu est maintenant à portée de
-main de tous et même en vente au
-rayon surgelé des grandes surfaces.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d07e3818065a0e2ebe218fbbab396b46fe1feea.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cec4010-e77e-4f5f-b20b-5068e2cf5de1.jpg">]]></description>
             <link>https://thegrid.ai/qdao/une-premiere-etape-reussi/index.html</link>
             <guid isPermaLink="false">325d4d64-188a-41b1-b574-33e31eb6a38c</guid>
             <pubDate>Wed, 13 Jan 2016 23:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9d78837-dc21-44a0-af1c-032b05126571.png">]]></description>
-            <link>https://thegrid.ai/qdao/2c4888e8-f04e-4218-a8f6-2c7482121da0/index.html</link>
-            <guid isPermaLink="false">2c4888e8-f04e-4218-a8f6-2c7482121da0</guid>
-            <pubDate>Wed, 13 Jan 2016 22:36:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
