@@ -22,19 +22,19 @@ color:
     - '#F49B75'
     - '#545454'
   rhythmicContrast: 0.25
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
 name: qdao
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.1505376
-layout_spectrum: 0.6559139
+layout_spectrum: 1
