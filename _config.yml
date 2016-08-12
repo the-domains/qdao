@@ -1,33 +1,27 @@
-name: qdao
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5
-  brandStrength: 0.5412186
+  brandStrength: 0.8548387
   lightness: 0.25
   brandColors:
-    - '#2C2D31'
-    - '#D4D3CF'
-    - '#837C84'
-    - '#379328'
-    - '#96BD3C'
+    - '#FEFEFE'
+    - '#EF5D20'
+    - '#070707'
+    - '#F49B75'
+    - '#545454'
   rhythmicContrast: 0.25
-typography_spectrum: 0.6899642
 cta:
   bucket: null
   version: null
@@ -37,4 +31,10 @@ analytics:
   google: null
   facebook: null
 favicon: null
-layout_spectrum: 0.2401434
+name: qdao
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1505376
+layout_spectrum: 0.6559139
