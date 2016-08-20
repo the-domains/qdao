@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: qdao
+name: Test v2 qdao
 cta:
   bucket: null
   version: null
@@ -38,4 +38,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Quy-Diem "DaddyDiem" DAO
+description: 'Welcome :)'
 purpose: []
