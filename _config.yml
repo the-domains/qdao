@@ -1,4 +1,30 @@
-purpose: []
+typography_spectrum: 0.1505376
+color:
+  saturation: 0.2311828
+  brandStrength: 0.8548387
+  lightness: 0.4820789
+  brandColors:
+    - '#FEFEFE'
+    - '#EF5D20'
+    - '#070707'
+    - '#F49B75'
+    - '#545454'
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: qdao
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -11,30 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.2311828
-  brandStrength: 0.8548387
-  lightness: 0.4820789
-  brandColors:
-    - '#FEFEFE'
-    - '#EF5D20'
-    - '#070707'
-    - '#F49B75'
-    - '#545454'
-  rhythmicContrast: 0.25
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: qdao
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1505376
-layout_spectrum: 0
+title: Quy-Diem "DaddyDiem" DAO
+purpose: []
