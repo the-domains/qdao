@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Test v2 qdao]]></title>
-        <description><![CDATA[Test v2 qdao]]></description>
+        <title><![CDATA[Quy-Diem "DaddyDiem" DAO]]></title>
+        <description><![CDATA[Quy-Diem "DaddyDiem" DAO]]></description>
         <link>https://thegrid.ai/qdao/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 02:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 00:14:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/qdao/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["M", l'assistant personnel de Facebook mi-homme, mi-robot]]></title>
+            <description><![CDATA[<article><h1>"M", l'assistant personnel de Facebook mi-homme, mi-robot</h1><p>Facebook a lancé un assistant personnel disponible dans l'application de messagerie Messenger. "M" entend concurrencer Siri, Cortana sur le terrain de l'intelligence artificielle. "M" comme Messenger. C'est le nom de l'assistant virtuel de Facebook intégré à son application de messagerie, lancé mercredi 26 août.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67adfed8c28f10d3458fceded1f8b8d0f7e79db0.jpg"></article>]]></description>
+            <link>http://ow.ly/RNH3H</link>
+            <guid isPermaLink="false">85ef4317-74c9-4bbe-be8a-a74aecefa242</guid>
+            <pubDate>Sat, 20 Aug 2016 00:14:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Entre PokemonGo et ce jeu, l'année va être chargé !]]></title>
             <description><![CDATA[<article><h1>Entre PokemonGo et ce jeu, l'année va être chargé !</h1><p>Et ce en moins de 24 heures. Vous avez forcément entendu parler de No Man's Sky , le jeu le plus attendu de l'été (si ce n'est de l'année), sorti le 9 août dernier sur PS4, constitué d'un nombre quasi infini d'univers à visiter (on parle tout de même de 18 446 744 073 709 551 616 planètes, rien que ça).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5c14fe755d33202302cd4fa120a3b054/noop.jpg?input=http%3A%2F%2Fwww.konbini.com%2Ffr%2Ffiles%2F2016%2F08%2Fno-mans-sky.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/qdao/atlanteam-grenoble-branding/index.html</link>
             <guid isPermaLink="false">25293388-db4a-4783-a482-87978dab29d1</guid>
             <pubDate>Mon, 18 Jan 2016 18:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supcréa]]></title>
-            <description><![CDATA[<article><h1>Supcréa</h1><p>Supcréa est l'école de la communication visuelle à vocation professionnelle. Ses formations : Infographie, 3D, Multimédia, Webdesign, Design graphique, Prépa arts appliqués.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cc8b5c2a5c9098fce24f9c6dd9b79353dfa4e07.png"></article>]]></description>
-            <link>http://www.supcrea.com/</link>
-            <guid isPermaLink="false">de19eac5-af26-4323-b9cd-14a774dac08a</guid>
-            <pubDate>Thu, 14 Jan 2016 01:30:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
