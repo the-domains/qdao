@@ -1,4 +1,3 @@
-layout_spectrum: 0.0812833842355758
 typography_spectrum: 0.4411766310222447
 color:
   saturation: 0.9793416447937489
@@ -15,11 +14,16 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.0812833842355758
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Test v2 qdao
+author:
+  name: dao
+  email: qdao.infog@gmail.com
+  url: 'https://www.facebook.com/quydiem'
+name: My personnal website
 cta:
   bucket: null
   version: null
